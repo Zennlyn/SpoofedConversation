@@ -1,0 +1,9 @@
+*/__pycache__/
+*/.ipynb_checkpoints/
+metrics/
+notebooks/
+scripts/finetuning_evaluation/
+scripts/output_alignment/automate_framework.py
+lps_dataset/transcripts/tts_generation/
+lps_dataset/transcripts/z_others/
+.env

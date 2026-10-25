@@ -1,0 +1,13 @@
+,min,mean,max,dur > 2s,dur > 5s
+f5tts_head,0.0,0.48,1.75,0,0
+f5tts_tail,0.0,0.0,0.26,0,0
+maskgct_head,0.0,0.18,1.25,0,0
+maskgct_tail,0.0,0.0,0.29,0,0
+sparktts_head,0.0,0.07,1.95,0,0
+sparktts_tail,0.0,0.12,54.83,5,5
+ctboxturbo_head,0.0,0.0,0.65,0,0
+ctboxturbo_tail,0.0,0.01,0.35,0,0
+fishspeech_head,0.0,0.0,1.45,0,0
+fishspeech_tail,0.0,0.0,0.48,0,0
+higgsv3_head,0.0,0.0,1.15,0,0
+higgsv3_tail,0.0,0.18,78.29,13,11
