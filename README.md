@@ -22,6 +22,7 @@ This work makes three contributions:
 As I'm maintaining this work on my own under my advisor's supervision, I'll gradually update this repository. It may take some time, but I'll do my best to keep it updated.
 
 * 2026-10-25: Released helper functions and scripts used in this work, and LPS dataset (extended).
+* 2026-11-22: Released metrics: WER, EER, SegmentEER, and ADER.
 
 ## 📁 Repository Structure
 ```
@@ -35,6 +36,14 @@ As I'm maintaining this work on my own under my advisor's supervision, I'll grad
 |   ├── stats/                      # statistics per split
 |   ├── transcripts/                # transcripts per class per split
 |   └── llama_dataset.sh            # script to download LlamaPartialSpoof dataset
+├── metrics/
+|   ├── examples/                   # some data for evaluation
+|   ├── adapted_der.py              # ADER
+|   ├── compute_wer.py              # WER 
+|   ├── eer.py                      # EER
+|   ├── evaluate_segment_eer.sh     # Shell command to run segment_eer.py
+|   ├── rttm_tool.py                # some tools for RTTM files
+|   └── segment_eer.py              # segmentEER; to evaluate an output across different resolutions
 └── scripts/
     ├── output_alignment/
     |   └── output_alignment.py     # Output alignment algorithm
