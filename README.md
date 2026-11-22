@@ -70,6 +70,16 @@ Citing every work and idea used in this work would make this README too long, so
       primaryClass={eess.AS},
       url={https://arxiv.org/abs/2409.14743}, 
 }
+
+@misc{zhang2023rangebasedequalerrorrate,
+      title={Range-Based Equal Error Rate for Spoof Localization}, 
+      author={Lin Zhang and Xin Wang and Erica Cooper and Nicholas Evans and Junichi Yamagishi},
+      year={2023},
+      eprint={2305.17739},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2305.17739}, 
+}
 ```
 
 ## 📄 License
